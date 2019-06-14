@@ -1,8 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/samsadasivan/samsadasivan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -24,15 +19,12 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 # Canadian Indigenous and Metis resources 
 Below are some links to resources around Indigenous history, culture and movements. There is a mixed amount of media, ranging from articles and stories to videos and playlists! Enjoy :) 
 
 ### Resources to learn more
-- [Truth and Reconciliation Commission Calls to Action] (http://trc.ca/assets/pdf/Calls_to_Action_English2.pdf)
--
+- [Truth and Reconciliation Commission Calls to Action](http://trc.ca/assets/pdf/Calls_to_Action_English2.pdf)
+- [Reclaiming Power and Place: The Final Report of the National Inquiry into Missing and Murdered Indigenous Women and Girls](https://www.mmiwg-ffada.ca/final-report/)
 
 
