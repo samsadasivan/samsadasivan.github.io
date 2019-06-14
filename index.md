@@ -1,14 +1,3 @@
-
-
-# Canadian Indigenous and Metis resources 
-Below are some links to resources around Indigenous history, culture and movements. There is a mixed amount of media, ranging from articles and stories to videos and playlists! Enjoy :) 
-
-### Resources to learn more
-- [Truth and Reconciliation Commission Calls to Action] (http://trc.ca/assets/pdf/Calls_to_Action_English2.pdf)
--
-
-
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/samsadasivan/samsadasivan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -39,10 +28,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Canadian Indigenous and Metis resources 
+Below are some links to resources around Indigenous history, culture and movements. There is a mixed amount of media, ranging from articles and stories to videos and playlists! Enjoy :) 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samsadasivan/samsadasivan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Resources to learn more
+- [Truth and Reconciliation Commission Calls to Action] (http://trc.ca/assets/pdf/Calls_to_Action_English2.pdf)
+-
 
-### Support or Mike!
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
