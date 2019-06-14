@@ -1,4 +1,3 @@
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -20,8 +19,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-# Canadian Indigenous and Metis resources 
-Below are some links to resources around Indigenous history, culture and movements. There is a mixed amount of media, ranging from articles and stories to videos and playlists! Enjoy :) 
+### Canadian Indigenous and Metis resources 
+`Below are some links to resources around Indigenous history, culture and movements. There is a mixed amount of media, ranging from articles and stories to videos and playlists! Enjoy :)` 
 
 ### Resources to learn more
 - [Truth and Reconciliation Commission Calls to Action](http://trc.ca/assets/pdf/Calls_to_Action_English2.pdf)
